@@ -4,4 +4,4 @@
 <p> 2. Compile the program using: make</p>
 <p> 3. Start the game: ./endgame</p>
 <p>Follow the link to see a gameplay: https://www.youtube.com/watch?v=RDsJYLUy7RA</p>
-![Photo](https://github.com/OlgaTsuban/Flying-car/blob/main/photo1693251852.jpeg)
+![Photo](photo1693251852.jpeg)
