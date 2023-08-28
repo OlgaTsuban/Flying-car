@@ -5,8 +5,8 @@
 <p> 3. Start the game: ./endgame</p>
 <p>Follow the link to see a gameplay: https://www.youtube.com/watch?v=RDsJYLUy7RA</p>
 <img src="/photo1693251852.png" alt="Alt text" title="Photo of game">
-<img src="/photo1693251822.png" alt="Alt text" title="Photo of game">
-<img src="/photo1693251872.png" alt="Alt text" title="Photo of game">
-<img src="/photo1693251909.png" alt="Alt text" title="Photo of game">
-<img src="/photo1693252038.png" alt="Alt text" title="Photo of game">
-<img src="/photo1693252109.png" alt="Alt text" title="Photo of game">
+<img src="/photo1693251822.jpeg" alt="Alt text" title="Photo of game">
+<img src="/photo1693251872.jpeg" alt="Alt text" title="Photo of game">
+<img src="/photo1693251909.jpeg" alt="Alt text" title="Photo of game">
+<img src="/photo1693252038.jpeg" alt="Alt text" title="Photo of game">
+<img src="/photo1693252109.jpeg" alt="Alt text" title="Photo of game">
